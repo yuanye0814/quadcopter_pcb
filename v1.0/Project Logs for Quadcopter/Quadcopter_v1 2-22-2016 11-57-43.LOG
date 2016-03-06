@@ -1,0 +1,11 @@
+Added Component: Designator=IC1(ESP_12_E)
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=3V3_EXT Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-15
+Added Pin To Net: NetName=NetIC1_16 Pin=IC1-16
+Added Pin To Net: NetName=NetIC1_17 Pin=IC1-17
+Added Pin To Net: NetName=NetIC1_18 Pin=IC1-18
+Added Pin To Net: NetName=NetIC1_21 Pin=IC1-21
+Added Pin To Net: NetName=NetIC1_22 Pin=IC1-22
+Added Member To Class: ClassName=U_WiFi Member=Component IC1 ESP8266 ESP-12-E

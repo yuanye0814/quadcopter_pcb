@@ -1,0 +1,16 @@
+Added Component: Designator=J1(Motor_Pin_Pad)
+Added Component: Designator=J2(Motor_Pin_Pad)
+Added Component: Designator=J3(Motor_Pin_Pad)
+Added Component: Designator=J4(Motor_Pin_Pad)
+Added Pin To Net: NetName=VBAT Pin=J1-1
+Added Pin To Net: NetName=NetD1_1 Pin=J1-2
+Added Pin To Net: NetName=VBAT Pin=J2-1
+Added Pin To Net: NetName=NetD2_1 Pin=J2-2
+Added Pin To Net: NetName=VBAT Pin=J3-1
+Added Pin To Net: NetName=NetD3_1 Pin=J3-2
+Added Pin To Net: NetName=VBAT Pin=J4-1
+Added Pin To Net: NetName=NetD4_1 Pin=J4-2
+Added Member To Class: ClassName=Quadcopter_v1.0 Member=Component J1 motor bonding pad
+Added Member To Class: ClassName=Quadcopter_v1.0 Member=Component J2 motor bonding pad
+Added Member To Class: ClassName=Quadcopter_v1.0 Member=Component J3 motor bonding pad
+Added Member To Class: ClassName=Quadcopter_v1.0 Member=Component J4 motor bonding pad

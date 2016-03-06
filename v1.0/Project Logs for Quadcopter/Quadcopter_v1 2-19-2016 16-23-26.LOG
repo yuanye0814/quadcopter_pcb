@@ -1,0 +1,9 @@
+Added Component: Designator=D5(SOT23-3)
+Added Component: Designator=R22(14-1210)
+Added Component: Designator=R23(14-1210)
+Added Pin To Net: NetName=VOLTAGE Pin=D5-1
+Added Pin To Net: NetName=VOLTAGE Pin=D5-2
+Added Pin To Net: NetName=VOLTAGE Pin=R22-1
+Added Pin To Net: NetName=VOLTAGE Pin=R23-2
+Added Pin To Net: NetName=VOLTAGE Pin=U5-18
+Added Net: Name=VOLTAGE

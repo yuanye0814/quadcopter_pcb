@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R22 Old Footprint=14-1210 New Footprint=r0603
+Change Component Footprint: Designator=R23 Old Footprint=14-1210 New Footprint=r0603
+Change Component Comment : Designator=R22 Old Comment=Res3 New Comment=R0603
+Change Component Comment : Designator=R23 Old Comment=Res3 New Comment=R0603
+Added Pin To Net: NetName=3V3 Pin=D5-3
+Added Pin To Net: NetName=VBAT Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Member To Class: ClassName=Quadcopter_v1.0 Member=Component D5 BAT54C
+Added Member To Class: ClassName=Quadcopter_v1.0 Member=Component R22 R0603
+Added Member To Class: ClassName=Quadcopter_v1.0 Member=Component R23 R0603
+Added Room: Name=Quadcopter_v1.0

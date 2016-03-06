@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RX1 Pin=IC2-1
+Removed Pin From Net: NetName=TX1 Pin=IC2-2
+Removed Pin From Net: NetName=3V3_EXT Pin=IC2-12
+Removed Pin From Net: NetName=GND Pin=IC2-13
+Removed Pin From Net: NetName=GND Pin=IC2-13
+Removed Member From Class: ClassName=U_BlueTooth Member=IC2

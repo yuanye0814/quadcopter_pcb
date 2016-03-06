@@ -1,0 +1,13 @@
+Added Component: Designator=IC2(HC-0X_PAD)
+Added Pin To Net: NetName=RX1 Pin=IC2-1
+Added Pin To Net: NetName=TX1 Pin=IC2-2
+Added Pin To Net: NetName=3V3_EXT Pin=IC2-12
+Added Pin To Net: NetName=GND Pin=IC2-13
+Added Pin To Net: NetName=NetIC2_24 Pin=IC2-24
+Added Pin To Net: NetName=NetIC2_24 Pin=R8-2
+Added Net: Name=NetIC2_24
+Added Pin To Net: NetName=NetIC2_26 Pin=IC2-26
+Added Pin To Net: NetName=NetIC2_26 Pin=R6-1
+Added Pin To Net: NetName=NetIC2_26 Pin=R7-1
+Added Net: Name=NetIC2_26
+Added Member To Class: ClassName=U_BlueTooth Member=Component IC2 HC-06_PAD
